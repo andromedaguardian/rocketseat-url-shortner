@@ -8,8 +8,9 @@ The goal of this project is to implement an "url shortener".
 - Maven
 - AWS Lambda
 - AWS S3
+- AWS API Gateway
 
 ### Content
 - [x] Lesson 1 - Creating a serveless function
 - [x] Lesson 2 - Integration with S3
-- [ ] Lesson 3 - Redirecting URLs and configuration of the gateway API
+- [x] Lesson 3 - Redirecting URLs and configuration of the gateway API
